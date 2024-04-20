@@ -1,1 +1,3 @@
-# Quizzler
+# quizzler
+
+A new Flutter project.
